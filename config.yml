@@ -1,0 +1,6 @@
+input:
+  folder: input
+
+output:
+  size: 32
+  folder: output
